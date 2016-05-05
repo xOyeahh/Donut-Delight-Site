@@ -1,0 +1,78 @@
+body {
+    background-color: goldenrod;
+    color: goldenrod;
+}
+
+
+label.error {
+    color: red;
+}
+
+.header {
+    background-color: black;
+
+}
+
+.heading {
+    border:5px goldenrod solid;
+    background-color:white;
+    padding:0px;
+    margin-top:10px;
+    margin-left:5px;
+    color:saddlebrown;
+}
+.heading h2 {
+    margin:0px;
+}
+.menu {
+    margin-top:50px;
+    margin-bottom:10px;  
+}
+
+a {
+    color:goldenrod;
+}
+
+.events {
+    background-color: black;
+  
+}
+.reviews {
+    background-color:black;
+}
+
+.about {
+    background-color: black;
+    margin-left:72px;
+}
+
+.contact {
+    background-color: black;
+        text-align:center;
+}
+
+.info {
+    background-color: black;
+    margin-top:50px;
+}
+
+.menu {
+    background-color:black;
+}
+
+.options1 {
+    background-color:black;
+    margin-left:72px;
+}
+
+.options2 {
+    background-color:black;
+}
+
+.location {
+    background-color:black;
+}
+
+.form {
+    background-color:black;
+}
